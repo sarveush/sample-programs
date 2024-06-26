@@ -4,5 +4,5 @@ x=len(list1)
 y=len(list2)
 for i in range(0,x):
     print(list1[i])
-for j in range(-1,-x-1,-1):
+for j in range(x-1,-1,-1):
     print(list2[j])    
