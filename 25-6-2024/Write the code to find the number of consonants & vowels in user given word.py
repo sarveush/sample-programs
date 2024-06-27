@@ -10,4 +10,4 @@ for i in range(0,x):
         c=c+1
 print("no of vowels:",v)
 print("no of constants:",c)            
-        
+         
